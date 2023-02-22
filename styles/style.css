@@ -6,9 +6,18 @@ a {
 	text-decoration: none;
 }
 ul{
+	display: inline;
 	list-style-type: none;
 }
 header {
 	height: 200px;
 	background-color: #0020F4;
+}
+nav a{
+	color: #ffffff;
+}
+section{
+	max-width: 1195;
+	width: 100%;
+	margin: auto;
 }
